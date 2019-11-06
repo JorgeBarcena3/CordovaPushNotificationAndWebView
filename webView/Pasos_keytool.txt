@@ -1,0 +1,5 @@
+Vamos a la carpeta donde se ha generado la apk
+Creamos la key: 
+keytool -genkey -v -keystore webViewPush.keystore -alias webViewPush -keyalg RSA -keysize 2048 -validity 1000
+Firmamos la key:
+jarsigner -sigalg SHA1withRSA -digestalg SHA1 -verbose -keystore webViewPush.keystore app-release-unsigned.apk webViewPush 

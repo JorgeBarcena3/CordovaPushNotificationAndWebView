@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "48692217303",
+    "firebase_url": "https://push-notifications-258118.firebaseio.com",
+    "project_id": "push-notifications-258118",
+    "storage_bucket": "push-notifications-258118.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48692217303:android:73c135030447957515f792",
+        "android_client_info": {
+          "package_name": "com.geneoitc.webView"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48692217303-qc569ghatlabg5cp8159klvefc5ucubr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4SnYYzZGYQvlGHL6OKa19m92LrokNWfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48692217303-qc569ghatlabg5cp8159klvefc5ucubr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
